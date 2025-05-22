@@ -1,0 +1,31 @@
+{
+  "audiovisual_files": {
+    "f197349a-11af-4be8-b4cc-2578e10b1bbb": {
+      "label": "",
+      "file_type": "Audio",
+      "is_offline": false,
+      "file_url": "",
+      "duration": 90,
+      "duration_overridden": false,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "2024 Rural Speakers",
+  "created_at": "2025-05-22T01:53:25.816Z",
+  "created_by": "bayleeross",
+  "updated_at": "2025-05-22T01:53:25.816Z",
+  "updated_by": "bayleeross"
+}
