@@ -1,0 +1,31 @@
+{
+  "audiovisual_files": {
+    "685470b3-7e84-48f4-892d-6d1ee3a8315d": {
+      "label": "",
+      "file_type": "Audio",
+      "is_offline": false,
+      "file_url": "",
+      "duration": 90,
+      "duration_overridden": false,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "1987 Rural Speakers",
+  "created_at": "2025-05-22T01:53:47.063Z",
+  "created_by": "bayleeross",
+  "updated_at": "2025-05-22T01:53:47.063Z",
+  "updated_by": "bayleeross"
+}
