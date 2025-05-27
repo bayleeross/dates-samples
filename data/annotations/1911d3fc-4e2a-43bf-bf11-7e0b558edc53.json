@@ -1,5 +1,2169 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 21,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i strongly agre"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "eb49388e-510f-4a03-bd80-a78994343d52"
+    },
+    {
+      "start_time": 48,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undecided"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "d0b5913b-520b-46e3-b6e0-bc7d7b7b364e"
+    },
+    {
+      "start_time": 67,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moderately agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "0812eb34-d93d-40d7-985e-206420cfdeca"
+    },
+    {
+      "start_time": 86,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i strongly agree with that also"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "b23d8d15-4f86-4e2e-bcca-174ade67b8d8"
+    },
+    {
+      "start_time": 109,
+      "end_time": 111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "uh it just depends on the situation"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "6fa9ef56-c0dc-49f8-bde3-ed2460afa9cc"
+    },
+    {
+      "start_time": 119,
+      "end_time": 122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "uh um strongly agree with that"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "0381785b-9c52-4f96-ab93-7126489a63ac"
+    },
+    {
+      "start_time": 134,
+      "end_time": 136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "most people don't agree with that"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "7b7cdd1c-f3d1-4355-9dd7-f23a22043b6e"
+    },
+    {
+      "start_time": 140,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "but if you never try somebody has to do it you know"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "06b6920d-2100-4f78-8a83-df876422967b"
+    },
+    {
+      "start_time": 150,
+      "end_time": 152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i strongly agree with that too"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "f6d0de63-b9d1-4779-9e43-c3585ad9f664"
+    },
+    {
+      "start_time": 158,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "yeah"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "73eb8619-ad45-4ce3-a3ed-2ce6c875102e"
+    },
+    {
+      "start_time": 167,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i think wherever you live"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "9add82f0-63b5-44d9-ae26-c068af8b45ac"
+    },
+    {
+      "start_time": 169,
+      "end_time": 170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i think it's your sense of self"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "c526ae4e-8e70-4ad7-b907-f02739d8bfba"
+    },
+    {
+      "start_time": 171,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and what kind of person you are than is is more important than i'm from texas meaning that i'm somebody"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "19b60c59-943f-4a14-a332-fd8605fdfc3b"
+    },
+    {
+      "start_time": 180,
+      "end_time": 183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "but i found people from the south to be"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "e6eb16c2-3741-4875-a2a9-1a0d020e8bcf"
+    },
+    {
+      "start_time": 189,
+      "end_time": 192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "typically more friendly and more willing to give friendliness"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "6b6774a5-d518-4e59-ba84-42a88f774ab4"
+    },
+    {
+      "start_time": 198,
+      "end_time": 208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and southerners just seem to to give it in the first place and then if you're rude or it doesn't work out then they're not quite as giving but that seems to be how southerners are to me"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "012efd67-7743-4e91-ad9c-7424868000de"
+    },
+    {
+      "start_time": 213,
+      "end_time": 219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "strongly agree land never changes you can't blow it up you can't get rid of it you you know"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "b05aa016-7c1e-4caf-b796-30753badbf21"
+    },
+    {
+      "start_time": 231,
+      "end_time": 239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i admire that i mean i strongly agree but for me i i'm not as as strong willed about just plunging into something"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "a9197b85-504f-421b-bfd7-61ae9425124f"
+    },
+    {
+      "start_time": 240,
+      "end_time": 247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "it takes me uh um even if i'm directing towards something i just i'm kinda i'm a basic lazy person so"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "cfb87227-3292-4367-af8e-c61f439fe46a"
+    },
+    {
+      "start_time": 291,
+      "end_time": 296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "uh i strongly i i i moderately agree i think that you have to uh"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "78dda46f-a9b4-418a-b06a-afc8d2241533"
+    },
+    {
+      "start_time": 300,
+      "end_time": 308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "more so because you get comments from other states and tv and stuff like that then then people lump you together uh "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "75e50720-ca50-40c5-8e68-64e7d7e8b88f"
+    },
+    {
+      "start_time": 326,
+      "end_time": 331,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "but then again all texans know that's not realistic either so you know"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "a76706dc-3ca5-4eed-874b-bbfe65ac989f"
+    },
+    {
+      "start_time": 342,
+      "end_time": 346,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i think the other texan will understand why they're proud of it you know"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "dfc6cb52-6dd8-43c7-a858-7a9ca4b6ebf1"
+    },
+    {
+      "start_time": 364,
+      "end_time": 367,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "just being southerners we all get along pretty well anyway"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "813396c6-6e90-46a4-a421-0f7bb35c0645"
+    },
+    {
+      "start_time": 367,
+      "end_time": 371,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "unless you bring in the racial qualities and i think that was dealt with a long time ago"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "78ec49cb-f283-495d-9689-533f7a9c36b9"
+    },
+    {
+      "start_time": 390,
+      "end_time": 394,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "yeah i'm i'm very proud of uh being from texas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "b304b556-601f-4134-82eb-3d75b08e9ab6"
+    },
+    {
+      "start_time": 395,
+      "end_time": 403,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and like i said the only problem it has is that someone not from texas or from doesn't understand um"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "6f42b612-6bf6-41b5-9082-8f0a3526a3e8"
+    },
+    {
+      "start_time": 427,
+      "end_time": 438,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "whereas if you say somebody is from mississippi you know if somebody has some idea that that's backwoods or something i mean i don't mean it like that but i think texas has the sense of uh"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "f0d49e03-8914-406a-8f36-c1f07012da7b"
+    },
+    {
+      "start_time": 439,
+      "end_time": 442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the pioneer spirit but also with a sense of intelligence"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "6845b3a4-7b7c-4f35-b860-91ea292dc68c"
+    },
+    {
+      "start_time": 452,
+      "end_time": 459,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i think if you're in austin it's beautiful maybe in big bend area it's very"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "135a91aa-c653-4f0c-bea2-ef44c97bedc2"
+    },
+    {
+      "start_time": 460,
+      "end_time": 469,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "but i think a lot others have more of not quite such a redneck attitude about things and what i mean by redneck i just mean that"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "e6204321-a8fc-4501-90f4-169f83400e2a"
+    },
+    {
+      "start_time": 470,
+      "end_time": 477,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "they're not as accepting of different either be it homosexuality or um "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "2868422a-9f65-48c0-9cdf-c651724be50a"
+    },
+    {
+      "start_time": 477,
+      "end_time": 489,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "trying to do something different many texans are stuck in a very family uh agriculture or refinery whatever wherever they've grown up they get very stuck into what their mode is supposed to be in that area"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "8064ab6a-3428-449a-90d9-d546cd4eb21b"
+    },
+    {
+      "start_time": 490,
+      "end_time": 494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and that seems to be you know what a lot of it in texas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "70b4687b-622a-4727-a7a1-a115abbf0b24"
+    },
+    {
+      "start_time": 502,
+      "end_time": 505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a lot of pride in your state"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "42ce1c53-3695-4653-8fa3-d9b2ab865363"
+    },
+    {
+      "start_time": 511,
+      "end_time": 521,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "it always seems to have a very viable economy there's never a uh a worry of everything falling apart i usually know when the economy is depressed there's not a sense of panic"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "a53b5fd7-dfc8-4e45-a3cc-df92d6656ce0"
+    },
+    {
+      "start_time": 523,
+      "end_time": 530,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "uh it's warm all the time it's not freezing there's not snow you don't get snowed in"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "14c7af77-7c9c-430d-804b-ceea7d2886a6"
+    },
+    {
+      "start_time": 560,
+      "end_time": 573,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "they're not as accepting of of different things that's more of the rural areas in smaller towns as opposed to somewhere like austin which is the uh artsy and and educational meccah of texas in my opinion"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "bf62ecc8-f0db-48a3-8185-70f72237d6db"
+    },
+    {
+      "start_time": 585,
+      "end_time": 596,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "only thing i think is um is the friendliness is the bottom line cause i knew a girl once from london and went to the same college i did in beaumont which is a small area"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "79ce1d15-e7a4-4f0b-977f-a8b392ef3ead"
+    },
+    {
+      "start_time": 596,
+      "end_time": 606,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and she was just amazed at um how people would say hi on the street just you know she almost thought that they were trying to rape her i mean they didn't she didn't understand the concept"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "6d45a7c6-2250-4bb7-b832-fef5e6145f92"
+    },
+    {
+      "start_time": 614,
+      "end_time": 619,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "typical way that everybody lives cause everybody lives their own life no matter where they're at"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "f65c9576-2524-4cea-b71d-b34e783f9d93"
+    },
+    {
+      "start_time": 660,
+      "end_time": 668,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "but not anybody that um has really saved the world or or you know got a nobel peace prize or anything"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "dc5a640f-bc7e-4ee1-96ef-64cb0a33f7e8"
+    },
+    {
+      "start_time": 692,
+      "end_time": 700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that'd be tough because if i had to deal with them on my personal level and deal with them everyday i'd want someone from texas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "3f47931f-e98c-476f-a7a3-3e946675f68b"
+    },
+    {
+      "start_time": 706,
+      "end_time": 712,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "but i've found that i get along better and can relate better from someone who's texas who's texan"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "a7e8c001-ca11-4295-b39a-4e16171937ab"
+    },
+    {
+      "start_time": 713,
+      "end_time": 722,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "because they it all goes back to that southern hospitality and uh the opennes but if they're equally qualified it's hard to say it would depend on the person um"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "c4f477e3-d708-408f-b966-40942de085a4"
+    },
+    {
+      "start_time": 751,
+      "end_time": 757,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "maybe because even though he's from a different area in the state it goes back to the uh"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "4ac81935-373a-4e21-9692-d36ff08202da"
+    },
+    {
+      "start_time": 779,
+      "end_time": 781,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "make no difference it's the person that matters"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "f646bf70-72b2-4c1b-b74d-c7de1e94250d"
+    },
+    {
+      "start_time": 793,
+      "end_time": 795,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "it doesn't matter where they live i"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "bea43664-9b88-47d9-a976-fa63f5e62479"
+    },
+    {
+      "start_time": 797,
+      "end_time": 798,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "just as long as she's happy"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "8400390a-477f-425e-a848-912121cd59a2"
+    },
+    {
+      "start_time": 806,
+      "end_time": 808,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i just like history in general"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "0daad5aa-2d9e-4eb7-8224-93565b873b68"
+    },
+    {
+      "start_time": 813,
+      "end_time": 820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "texas history was people from tennessee and arkansas and it wasn't actually a bunch of texans cause we were mexico at one point"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "62498781-21df-4f18-b2f1-4055f1362507"
+    },
+    {
+      "start_time": 840,
+      "end_time": 841,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "anybody"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "19773829-d8e7-41d9-bbd0-52885c2b3719"
+    },
+    {
+      "start_time": 846,
+      "end_time": 849,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and more of a hypocritical religious attitude"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "04de1fb4-b140-4f89-bfcd-024050c6dda0"
+    },
+    {
+      "start_time": 854,
+      "end_time": 857,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "is judged upon who they are not where they came from"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "ab14e968-56e9-4d49-86aa-747c61cd6d95"
+    },
+    {
+      "start_time": 859,
+      "end_time": 859,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "anywhere"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "2d76d7c5-7abc-464b-8838-bdafc1accf4b"
+    },
+    {
+      "start_time": 863,
+      "end_time": 864,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "anywhere"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "5ae84b66-a7f0-4a1e-95fc-10b5050d97e8"
+    },
+    {
+      "start_time": 874,
+      "end_time": 885,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you know the bible belt that's just the whole bottom line it just seems to be that uh and if that's a good quality or not it doesn't it doesn't way into the effect you know it's just it seems in the south people are more religious"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "c53dfaa4-4381-4f84-8758-022f6b06d390"
+    },
+    {
+      "start_time": 891,
+      "end_time": 893,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "because they judge too much"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "68d0fb77-2cc8-4882-a6f0-f61adca7a05f"
+    },
+    {
+      "start_time": 894,
+      "end_time": 901,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "even if they do or not it seems hypocritical basically it it seems to be a southern way of life but it also seems to be hypocritical"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "6c25e02b-9fa9-4dd8-b196-fca89bb52a29"
+    },
+    {
+      "start_time": 907,
+      "end_time": 913,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "becasuse you think of the texas as a good old boy who can be very smart but he comes off as being a dumbass"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "c9375c1a-7a6d-4ad0-af7d-e1e8aca290b0"
+    },
+    {
+      "start_time": 926,
+      "end_time": 931,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i think texans are idealistic uh just because they've had the pioneer spirit"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "96a851bc-41a2-4967-933d-b6a0a922b233"
+    },
+    {
+      "start_time": 940,
+      "end_time": 946,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "very confident i think more so southerns are more confident than you know other people"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "187689d5-0dd0-4a87-8c64-63f857956d9d"
+    },
+    {
+      "start_time": 960,
+      "end_time": 964,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "they know who they are and uh and they're they're proud of who they are"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "e119d5aa-ec5b-4e05-a6ee-8e1f2314cece"
+    },
+    {
+      "start_time": 972,
+      "end_time": 978,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "it's who's judging it you might seem like you know a big old good old boy but he might be getting his way by being"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "4e59bbec-a4df-4f3f-a42d-731600b77103"
+    },
+    {
+      "start_time": 989,
+      "end_time": 992,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to who decides what's sophisticated and what's not sophisticated"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "425b89fe-d245-4ee7-b7ed-6bd32f94a760"
+    },
+    {
+      "start_time": 994,
+      "end_time": 998,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "anxious meaning that you want stuff now and you want it to happen"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "7cadd005-b875-4e35-9fab-f8663d35a3fb"
+    },
+    {
+      "start_time": 1007,
+      "end_time": 1010,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "very peaceful i think texans are very peaceful"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "31e0a799-8ce4-42f4-ad81-ead4dc44e39b"
+    },
+    {
+      "start_time": 1011,
+      "end_time": 1013,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i think they're very brave"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "51d561a9-83f1-45e9-a240-0ddc3418420a"
+    },
+    {
+      "start_time": 1014,
+      "end_time": 1016,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "apprehensive"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "6b93271b-1964-4eb9-871c-8b4b118d670a"
+    },
+    {
+      "start_time": 1019,
+      "end_time": 1024,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i think uh i mean i hate to sound like such a uh yankee hater or whatever but uh "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "24aa32e5-6248-4363-a841-8735b3753bac"
+    },
+    {
+      "start_time": 1025,
+      "end_time": 1027,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i think that um"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "b5cc2b9e-a647-4775-8e01-8aab4881d37b"
+    },
+    {
+      "start_time": 1027,
+      "end_time": 1034,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "it may be because i can't relate as well to the northerner as i can to someone from texas or anywhere else"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "5fda72d0-7390-4126-a8ad-eb3f50c7384f"
+    },
+    {
+      "start_time": 1036,
+      "end_time": 1040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "now see that's something that i don't i don't believe uh"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "4be9d493-c664-46e7-b207-f816d7e2246d"
+    },
+    {
+      "start_time": 1050,
+      "end_time": 1055,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the image that they're more violent with the klu klux klan that kind of stuff and hunters and everything uh"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "066bcc53-5e1f-4739-a342-c1aa2f1091f8"
+    },
+    {
+      "start_time": 1062,
+      "end_time": 1067,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to decide that southerners or texans are more violent than you know anywhere else"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "abc40cde-9b7e-4e09-b73c-56beeeb4fc3b"
+    },
+    {
+      "start_time": 1079,
+      "end_time": 1087,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i think uh texans are very relaxed it might be the heat in the end because you can't get too uptight if you're hot all the time you know"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "f559705e-a22a-472f-b65c-07eb9e96641f"
+    },
+    {
+      "start_time": 1089,
+      "end_time": 1094,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i think texans are very friendly as opposed to other people"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "cb4a50ed-c210-4862-8f96-0c3e0e68ee9e"
+    },
+    {
+      "start_time": 1109,
+      "end_time": 1110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i strongly agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "eeab645e-46b4-4d6f-978a-ee179b0846d9"
+    },
+    {
+      "start_time": 1127,
+      "end_time": 1130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "uh representing their state or anything you know sure yeah"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "95ca29a3-84ba-418b-89ea-cc69c857982c"
+    },
+    {
+      "start_time": 1145,
+      "end_time": 1158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undecided because if somebody owns a lot of cotton or somebody owns cattle whoever owns that that rancher is gonna make a lot of money even if he sells it up north maybe it doesn't go to a mass"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "123f6699-257c-4c4c-8f8c-c06131e27975"
+    },
+    {
+      "start_time": 1189,
+      "end_time": 1190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "strongly agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "90b6feec-1998-44f6-b561-ae04ae766bcb"
+    },
+    {
+      "start_time": 1204,
+      "end_time": 1208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you're gonna buy what is best for you"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "1486186a-d54e-4c31-8541-ebbd4d8f7746"
+    },
+    {
+      "start_time": 1208,
+      "end_time": 1214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "but if you can't afford it and it's not going to waiver your economics either way"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "4e2a160d-aa72-47b0-a394-3d477b102745"
+    },
+    {
+      "start_time": 1214,
+      "end_time": 1223,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "then i think you should buy texan because you're always helping your your local economy good example is texas wine i've met people that are "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "a3403b3e-46b9-45cc-bebc-c84a55e98bb1"
+    },
+    {
+      "start_time": 1238,
+      "end_time": 1239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "your personal worth"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "97c0ada6-7bfe-4656-b6c6-e57538110d56"
+    },
+    {
+      "start_time": 1248,
+      "end_time": 1251,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i think they appreciate it so much when they get here"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "8899bf57-f24d-49e6-a8ef-cb3aaf3d1e30"
+    },
+    {
+      "start_time": 1254,
+      "end_time": 1257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the friendliness is that we accept people"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "72e10009-c5f0-4568-9172-b996803c52f5"
+    },
+    {
+      "start_time": 1258,
+      "end_time": 1263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and i uh think it has on impact on them that they're so that they're accepted without any kind of judgment"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "260f3bee-54df-46f9-a979-d108f426cce6"
+    },
+    {
+      "start_time": 1285,
+      "end_time": 1295,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "maybe in the sense that we've put too many eggs in one basket i agree uh moderately i agree maybe in the sense that uh "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "2c15bad8-148a-4d53-aabf-521b70ed71a2"
+    },
+    {
+      "start_time": 1303,
+      "end_time": 1308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "but there's not much else we can do here for that uh and a loss the banking is a large problem"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "f7f48619-4517-47a5-95ff-2041fb583d94"
+    },
+    {
+      "start_time": 1324,
+      "end_time": 1330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "there's no cause and effect i mean that's the whole thing if if the persian gulf closes off and texas oil go up and we'll be fine"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "a0507d5f-54ef-4ce3-a287-e39e85d6c7af"
+    },
+    {
+      "start_time": 1349,
+      "end_time": 1352,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "national politics it doesn't seem like anything nationally"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "fc16d153-1bc1-4172-aa0a-1f92d0276deb"
+    },
+    {
+      "start_time": 1354,
+      "end_time": 1358,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "cause uh whoever representatives or senators we have they're always fighting for us so "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "5a5accf3-8336-457e-b886-b2a6453c4d31"
+    },
+    {
+      "start_time": 1368,
+      "end_time": 1370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undecided i don't i don't i don't know that"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "37b74283-7383-42d2-be89-050b2033ac83"
+    },
+    {
+      "start_time": 1375,
+      "end_time": 1377,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i strongly disagree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "d263ab3a-6d5d-4062-b13c-9340de13ef48"
+    },
+    {
+      "start_time": 1385,
+      "end_time": 1386,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moderately agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "c35facf3-9a5e-4ab0-b833-da01ca96a0d6"
+    },
+    {
+      "start_time": 1395,
+      "end_time": 1401,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moderately agree because i'm from texas so it's probably uh presented more to us than somebody from somewhere else"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "26e079ac-d166-4d07-ac7e-c297318ba9af"
+    },
+    {
+      "start_time": 1407,
+      "end_time": 1408,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "strongly agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "a6fe29fe-f3be-4652-88d3-87d5ee7c227f"
+    },
+    {
+      "start_time": 1423,
+      "end_time": 1424,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moderately agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "a523ef68-643f-449e-9955-f8be6efa00e0"
+    },
+    {
+      "start_time": 1432,
+      "end_time": 1435,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "people that complain about texans are jealous"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "9842d68d-87cc-42cd-b9e9-843db9424330"
+    },
+    {
+      "start_time": 1438,
+      "end_time": 1440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "uh i'm undecided"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "010d4bd2-f860-48c3-bf34-a7b7d93e34e6"
+    },
+    {
+      "start_time": 1446,
+      "end_time": 1447,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "disagree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "48485e60-da83-4d79-b6d3-53a0f02669b7"
+    },
+    {
+      "start_time": 1454,
+      "end_time": 1455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "strongly agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "e924f849-d815-4c69-bca3-2a7a948895dc"
+    }
+  ],
   "set": "Default",
   "event_id": "16460a3f-2763-4999-a95f-e14a3c43e6c7",
   "source_id": "685470b3-7e84-48f4-892d-6d1ee3a8315d"
