@@ -4,9 +4,9 @@
       "label": "",
       "file_type": "Audio",
       "is_offline": false,
-      "file_url": "",
-      "duration": 90,
-      "duration_overridden": false,
+      "file_url": "https://archive.org/details/language-donna-ar-07192024-1",
+      "duration": 944,
+      "duration_overridden": true,
       "caption_set": []
     }
   },
@@ -26,6 +26,9 @@
   "label": "2024 Rural Speakers",
   "created_at": "2025-05-22T01:53:25.816Z",
   "created_by": "bayleeross",
-  "updated_at": "2025-05-22T01:53:25.816Z",
-  "updated_by": "bayleeross"
+  "updated_at": "2025-05-27T21:45:20.225Z",
+  "updated_by": "bayleeross",
+  "av_file_order": [
+    "f197349a-11af-4be8-b4cc-2578e10b1bbb"
+  ]
 }
