@@ -4,11 +4,12 @@
   "created_by": "bayleeross",
   "title": "1987 Urban Speakers",
   "slug": "1987-urban-speakers",
-  "updated_at": "2025-05-22T01:53:37.606Z",
-  "updated_by": "bayleeross",
+  "updated_at": "2025-05-27T21:25:26.871Z",
+  "updated_by": "speaktexan",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "c97d18ce-1791-4314-9b63-672dbbc165f6"
-  }
+  },
+  "parent": "eb0756a9-deee-43aa-98f8-8e69893b6da0"
 }
