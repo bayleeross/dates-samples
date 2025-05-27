@@ -1,5 +1,1455 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 18,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "e4a8e191-fbe1-4993-baf4-9b713bfa4f69"
+    },
+    {
+      "start_time": 36,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moderately agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "7edf099e-1822-479c-a6bf-b63df92f1237"
+    },
+    {
+      "start_time": 43,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moderately agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "1bee17c8-cb20-4385-9ebc-013d1a580830"
+    },
+    {
+      "start_time": 51,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "strongly agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "02120000-29bd-4399-af0f-1829e65d4cb9"
+    },
+    {
+      "start_time": 59,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moderately agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "51161ee6-2cc6-4077-b16c-22f1788163d2"
+    },
+    {
+      "start_time": 67,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moderately disagree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "14dfc59b-fd41-4258-b376-16d1f777f228"
+    },
+    {
+      "start_time": 75,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moderately agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "5576a364-764c-4bff-9802-38fe13a6a6bd"
+    },
+    {
+      "start_time": 82,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "strongly agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "b4d9cc27-918a-41d4-b811-a010804c5b5e"
+    },
+    {
+      "start_time": 87,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moderately agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "c36f2fed-2c90-4488-bac3-b998d84e9d2d"
+    },
+    {
+      "start_time": 93,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undecided"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "b07408b8-0461-440e-8bcb-983fa46c67ae"
+    },
+    {
+      "start_time": 99,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moderately agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "4f23ff0f-f33d-454e-b18e-7e6aef5e5509"
+    },
+    {
+      "start_time": 133,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i think i'd feel closer to texans"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "4625dc8f-9119-4042-a0bf-d2cd002d8fd3"
+    },
+    {
+      "start_time": 145,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "some interest "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "21df92d8-4b06-48ae-86e4-e7f6c51b6a2c"
+    },
+    {
+      "start_time": 162,
+      "end_time": 163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "sure"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "a4a90873-3e3a-4320-9893-35e94e535f58"
+    },
+    {
+      "start_time": 177,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "always when i'm around people who aren't from texas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "6386c6ca-1bd2-426c-ab38-527d7a4ccd64"
+    },
+    {
+      "start_time": 186,
+      "end_time": 189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "well it's where i wanna end up whenever i graduate"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "4b51f54a-3cbd-4da3-89ef-919ce0c5d6b4"
+    },
+    {
+      "start_time": 192,
+      "end_time": 194,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "um diversity"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "9542055a-abe6-45b4-9359-676e3bb33759"
+    },
+    {
+      "start_time": 205,
+      "end_time": 211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "well it's dependence on oil at this point but it's getting more into other areas to support itself"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "13f6484f-029a-4789-a1f8-ebcda1a130f5"
+    },
+    {
+      "start_time": 217,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the area going towards el paso"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "b5155366-a826-4dea-b04b-69d2173b64ad"
+    },
+    {
+      "start_time": 234,
+      "end_time": 243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "um i would consider it similar in some ways to many southern states but definitely dissimilar to eastern or west coast states"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "4938b70a-acea-45f5-a244-985a25744c79"
+    },
+    {
+      "start_time": 253,
+      "end_time": 260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the fact that there are a lot of texans who um would consider seceding from the union"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "4c745463-9fea-4415-9768-2c7862bac6b4"
+    },
+    {
+      "start_time": 268,
+      "end_time": 271,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "um well sam houston"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "2786f1e4-5a50-4172-9299-2559fcedae53"
+    },
+    {
+      "start_time": 274,
+      "end_time": 276,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to some extent stephen f austin"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "58707364-c31e-4ecd-8599-24a2500f5e0e"
+    },
+    {
+      "start_time": 280,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "um sam houston for all the stuff he did to get the state together"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "7b7fcbbd-5097-4146-b8d6-7cd6c6e61d27"
+    },
+    {
+      "start_time": 285,
+      "end_time": 293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and austin for being a good businessman talking to um the mexicans i guess the mexican government and to"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "3f5c8f51-328f-4573-9a95-c57a15ad20fa"
+    },
+    {
+      "start_time": 293,
+      "end_time": 297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "giving him land and everything he did with that"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "fb1be7b2-e222-44ba-8e1e-5ed2f5c07d1b"
+    },
+    {
+      "start_time": 307,
+      "end_time": 311,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "barbara jordan definitely i had her sister as a music"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "ba325a98-6594-4a68-9ca0-4ee3dbf27ca9"
+    },
+    {
+      "start_time": 333,
+      "end_time": 341,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "if they went to a and m the person from the others um the other state if they didn't go to a and m the person from texas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "cb02984f-99a1-4436-a914-dc021f71fb79"
+    },
+    {
+      "start_time": 352,
+      "end_time": 354,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "probably have a better working relationship"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "3d7da874-12ec-4991-9c35-3a2115c1a90e"
+    },
+    {
+      "start_time": 376,
+      "end_time": 384,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "again because i think he would understand the things about texas and the area better than somebody from a different state"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "9138505a-5b5b-41db-a5c7-fd131db0c835"
+    },
+    {
+      "start_time": 385,
+      "end_time": 388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "as long as they had the same qualifications in other ways"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "31696643-1369-4bb8-8116-5595e47a71ba"
+    },
+    {
+      "start_time": 402,
+      "end_time": 407,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "um it might make me question a little bit but it probably wouldn't make that much difference"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "e1177703-f302-4656-a247-021bc4ac9188"
+    },
+    {
+      "start_time": 409,
+      "end_time": 419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "um i'd probably judge more on how well i like him after getting to know him rather than just on where he was from"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "4d1e8e3e-b428-42e0-b8fc-3c58351f5e9a"
+    },
+    {
+      "start_time": 427,
+      "end_time": 429,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "it might help me like him a little better"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "90d94245-0dd8-4fa2-a3c5-1d7fd6ab040f"
+    },
+    {
+      "start_time": 436,
+      "end_time": 437,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "some interest"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "577abe9f-1e90-45ce-b81f-cbcd18ce838b"
+    },
+    {
+      "start_time": 449,
+      "end_time": 450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other people"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "8273b597-9cfc-4731-aa50-620b98029dd9"
+    },
+    {
+      "start_time": 454,
+      "end_time": 455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "um texan"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "d5e04983-4b9a-44f7-ad9c-3959a6b62f1a"
+    },
+    {
+      "start_time": 457,
+      "end_time": 458,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other people"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "79eb0f8f-812c-4338-a35c-2355ebabae3c"
+    },
+    {
+      "start_time": 459,
+      "end_time": 460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "texan"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "22963d6b-a9f7-4e1b-b0e2-95de40afabac"
+    },
+    {
+      "start_time": 471,
+      "end_time": 472,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "oh other people"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "38fc2271-62d4-4705-86df-50ae75dc1ba5"
+    },
+    {
+      "start_time": 475,
+      "end_time": 476,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "um others"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "e9a6362d-e50d-4990-a9fa-80656a243cd7"
+    },
+    {
+      "start_time": 478,
+      "end_time": 480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "um others"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "065efba4-146c-4836-a027-2c4ecec6f1ba"
+    },
+    {
+      "start_time": 482,
+      "end_time": 483,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "um texan"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "0268a75a-d7bb-4e7e-b5c6-464302a31ff9"
+    },
+    {
+      "start_time": 488,
+      "end_time": 489,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "texan"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "821aceb0-1d94-4383-bd9f-f2ce18a9de29"
+    },
+    {
+      "start_time": 490,
+      "end_time": 491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other people"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "f2495641-da85-4120-9ecb-60c66650eec2"
+    },
+    {
+      "start_time": 494,
+      "end_time": 495,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "texans"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "b85f6caf-bf0b-4830-a871-d56979a1a2de"
+    },
+    {
+      "start_time": 497,
+      "end_time": 498,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other people"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "b181f064-4a17-4564-9188-81487e5b7010"
+    },
+    {
+      "start_time": 501,
+      "end_time": 502,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other people"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "385d089a-7b84-41f4-80db-10282be52c92"
+    },
+    {
+      "start_time": 503,
+      "end_time": 504,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "texans"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "dc9c3b6f-c68a-43a8-a9e7-b0b3bd918a45"
+    },
+    {
+      "start_time": 506,
+      "end_time": 507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other people"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "78f38b01-f0b8-43fe-8a37-28fb17912a48"
+    },
+    {
+      "start_time": 512,
+      "end_time": 513,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other people"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "3428b69b-ea29-47d8-b586-e8303a867957"
+    },
+    {
+      "start_time": 536,
+      "end_time": 537,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moderately agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "8553af3f-a1d7-4ca8-be50-9e423fcd4c52"
+    },
+    {
+      "start_time": 546,
+      "end_time": 548,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moderately agree to undecided"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "c6e6a8f9-e63e-4fb6-92fc-d20ece66231c"
+    },
+    {
+      "start_time": 554,
+      "end_time": 555,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moderately agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "62df527c-e8ef-461d-98bf-7a3931076972"
+    },
+    {
+      "start_time": 563,
+      "end_time": 564,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undecided"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "1fe29d3c-f51f-45a6-98cf-ce547e75ea66"
+    },
+    {
+      "start_time": 576,
+      "end_time": 577,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moderately disagree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "f10cd2bb-4b37-4146-a3a4-6a2289d8c62f"
+    },
+    {
+      "start_time": 583,
+      "end_time": 585,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moderately agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "9a2fb704-3b3b-4e84-b873-ccefffbc20ba"
+    },
+    {
+      "start_time": 591,
+      "end_time": 592,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moderately disagree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "e5291c05-d2bd-4c90-9e39-2748b1af1587"
+    },
+    {
+      "start_time": 600,
+      "end_time": 601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moderately disagree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "d8104c1f-3e60-4fcc-b83d-36f758816eca"
+    },
+    {
+      "start_time": 606,
+      "end_time": 607,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undecided"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "a28d12bc-f570-4e9f-80c0-7a14f14a6110"
+    },
+    {
+      "start_time": 611,
+      "end_time": 612,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moderately agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "87d928e2-b301-4356-959f-774a922fdf9d"
+    },
+    {
+      "start_time": 626,
+      "end_time": 627,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "strongly agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "adef00f3-288a-45d5-8b76-5acfbf546412"
+    },
+    {
+      "start_time": 631,
+      "end_time": 632,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "strongly agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "ea3a9b4f-d98b-4259-b003-c373edcbe5d8"
+    },
+    {
+      "start_time": 636,
+      "end_time": 637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undecided"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "50fdef40-86d1-48ef-8cde-ea387d3ab646"
+    },
+    {
+      "start_time": 641,
+      "end_time": 642,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "strongly agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "c483d8e1-c23c-425d-a7f6-80dcdf3c0960"
+    },
+    {
+      "start_time": 647,
+      "end_time": 648,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "strongly agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "c1440db2-213c-4393-a84b-26adabe96140"
+    },
+    {
+      "start_time": 653,
+      "end_time": 655,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "uh moderately agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "6523dc25-766d-48ae-b877-03ce7b4c930f"
+    },
+    {
+      "start_time": 661,
+      "end_time": 663,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undecided i don't like chili"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "40db8008-a544-41cd-ad13-62a6d71f1f86"
+    },
+    {
+      "start_time": 670,
+      "end_time": 671,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moderately agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sentence"
+        }
+      ],
+      "uuid": "0926c9dc-5203-4efc-aabc-8ecb5399e3c1"
+    }
+  ],
   "set": "Default",
   "event_id": "c97d18ce-1791-4314-9b63-672dbbc165f6",
   "source_id": "7e1f8598-730e-4dea-9090-e7d0ac0109ad"
